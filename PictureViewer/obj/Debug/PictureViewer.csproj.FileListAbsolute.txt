@@ -7,3 +7,13 @@ C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer\PictureViewer\obj\Deb
 C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
 C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
 C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer_Tutorial\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer_Tutorial\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer_Tutorial\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer_Tutorial\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer_Tutorial\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer_Tutorial\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer_Tutorial\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer_Tutorial\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer_Tutorial\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\axphi\Documents\School\ToolsPlugins\PictureViewer_Tutorial\PictureViewer\obj\Debug\PictureViewer.pdb
